@@ -1,0 +1,18 @@
+C:\Users\TomAndJerry\Desktop\DailyDocs\_SSD18\CSharp\CSharp\day5\asgn4\asgn4StarterHint\asgn4StarterHint\bin\Debug\asgn4StarterHint.exe.config
+C:\Users\TomAndJerry\Desktop\DailyDocs\_SSD18\CSharp\CSharp\day5\asgn4\asgn4StarterHint\asgn4StarterHint\bin\Debug\asgn4StarterHint.exe
+C:\Users\TomAndJerry\Desktop\DailyDocs\_SSD18\CSharp\CSharp\day5\asgn4\asgn4StarterHint\asgn4StarterHint\bin\Debug\asgn4StarterHint.pdb
+C:\Users\TomAndJerry\Desktop\DailyDocs\_SSD18\CSharp\CSharp\day5\asgn4\asgn4StarterHint\asgn4StarterHint\obj\Debug\asgn4StarterHint.csprojResolveAssemblyReference.cache
+C:\Users\TomAndJerry\Desktop\DailyDocs\_SSD18\CSharp\CSharp\day5\asgn4\asgn4StarterHint\asgn4StarterHint\obj\Debug\asgn4StarterHint.exe
+C:\Users\TomAndJerry\Desktop\DailyDocs\_SSD18\CSharp\CSharp\day5\asgn4\asgn4StarterHint\asgn4StarterHint\obj\Debug\asgn4StarterHint.pdb
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\day5\homework4\Homework4\asgn4StarterHint\asgn4StarterHint\bin\Debug\asgn4StarterHint.exe.config
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\day5\homework4\Homework4\asgn4StarterHint\asgn4StarterHint\obj\Debug\asgn4StarterHint.exe
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\day5\homework4\Homework4\asgn4StarterHint\asgn4StarterHint\obj\Debug\asgn4StarterHint.pdb
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\day5\homework4\Homework4\asgn4StarterHint\asgn4StarterHint\bin\Debug\asgn4StarterHint.exe
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\day5\homework4\Homework4\asgn4StarterHint\asgn4StarterHint\bin\Debug\asgn4StarterHint.pdb
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\day5\homework4\Homework4\asgn4StarterHint\asgn4StarterHint\obj\Debug\asgn4StarterHint.csprojResolveAssemblyReference.cache
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part1\day5\homework4\Homework4\Homework4_shane\asgn4StarterHint\asgn4StarterHint\bin\Debug\asgn4StarterHint.exe.config
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part1\day5\homework4\Homework4\Homework4_shane\asgn4StarterHint\asgn4StarterHint\obj\Debug\asgn4StarterHint.exe
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part1\day5\homework4\Homework4\Homework4_shane\asgn4StarterHint\asgn4StarterHint\obj\Debug\asgn4StarterHint.pdb
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part1\day5\homework4\Homework4\Homework4_shane\asgn4StarterHint\asgn4StarterHint\bin\Debug\asgn4StarterHint.exe
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part1\day5\homework4\Homework4\Homework4_shane\asgn4StarterHint\asgn4StarterHint\bin\Debug\asgn4StarterHint.pdb
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part1\day5\homework4\Homework4\Homework4_shane\asgn4StarterHint\asgn4StarterHint\obj\Debug\asgn4StarterHint.csprojResolveAssemblyReference.cache
